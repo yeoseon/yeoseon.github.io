@@ -208,9 +208,13 @@ Java, Spring Framework, JUnit5, MySQL
 Springboot, Java, Algorithm, SQL ...  
 
 * 더 잘 알고 개발하기 위해 그동안 사용해왔던 기술에 대한 학습을 재진행  
-* [GitHub (Spring Playground)](https://github.com/yeoseon/spring-playground)  
-* [GitHub (Algorithm Playground)](https://github.com/yeoseon/algorithm-playground)  
-* [GitHub (SQL Playground)](https://github.com/yeoseon/sql-playground)   
+ * [GitHub (Spring Playground)](https://github.com/yeoseon/spring-playground)  
+ * [GitHub (Algorithm Playground)](https://github.com/yeoseon/algorithm-playground)  
+ * [GitHub (SQL Playground)](https://github.com/yeoseon/sql-playground)   
+* 그 외 기술 습득  
+ * [GitHub (JPA Playground)](https://github.com/yeoseon/jpa-playground)
+ * DDD (Domain-Driven-Design)  
+ * 사이드 프로젝트 진행 (여자야구 정보 제공 사이트 개발 진행중)  
 
 ## 다양한 기술 활용  
 
