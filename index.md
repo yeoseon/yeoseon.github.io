@@ -200,25 +200,48 @@ Java, Spring Framework, JUnit5, MySQL
 
 ## 기본
 
-4년간의 개발 경력에 비한 역량이 제 기준에 미치지 못한다는 판단에 기본을 다지는 시간을 가졌습니다.  
+4년간의 개발 경력에 비한 역량이 제 기준에 미치지 못한다는 판단에 기본을 다지고, 백엔드 개발자로서의 역량을 다지는 시간을 가졌습니다.  
 
-### 사용하던 기술에 대한 재학습  
+### 지속적인 학습과 기술 습득  
 
-2020.08~10  
+2020.08~11  
 Springboot, Java, Algorithm, SQL ...  
 
 * 더 잘 알고 개발하기 위해 그동안 사용해왔던 기술에 대한 학습을 재진행  
- * [GitHub (Spring Playground)](https://github.com/yeoseon/spring-playground)  
- * [GitHub (Algorithm Playground)](https://github.com/yeoseon/algorithm-playground)  
- * [GitHub (SQL Playground)](https://github.com/yeoseon/sql-playground)   
+  * [GitHub (Spring Playground)](https://github.com/yeoseon/spring-playground)  
+  * [GitHub (Algorithm Playground)](https://github.com/yeoseon/algorithm-playground)  
+  * [GitHub (SQL Playground)](https://github.com/yeoseon/sql-playground)   
+
 * 그 외 기술 습득  
- * [GitHub (JPA Playground)](https://github.com/yeoseon/jpa-playground)
- * DDD (Domain-Driven-Design)  
- * 사이드 프로젝트 진행 (여자야구 정보 제공 사이트 개발 진행중)  
+  * [GitHub (JPA Playground)](https://github.com/yeoseon/jpa-playground)
+  * DDD (Domain-Driven-Design)  
+  * 사이드 프로젝트 진행 (여자야구 정보 제공 사이트 개발 진행중)  
 
 ## 다양한 기술 활용  
 
 사용자로서만 경험했던 서비스의 End-to-End 기술을 직접 겪어보고 싶어 사이드 프로젝트를 진행하고 있습니다.  
+
+<!--  
+### [사이드 프로젝트] 여자야구 정보 안내 서비스 :: 
+
+2020.11~  
+AWS, Springboot, JPA, React.js, PostgreSQL    
+
+* 여자야구 일정, 정보, 사회인 야구 입문 가이드 등 여자야구와 관련된 다양한 정보를 제공하는 사이트 개발  
+* 서비스의 엔드포인트를 경험해보기 위한 사이드 프로젝트  
+* [GitHub](https://github.com/yeoseon/womans-baseball-news)
+
+### [사이드 프로젝트] 힘들 때 위로의 말을 건네주는 슬랙봇 :: peptalkbot
+
+2020.11  
+AWS, node.js, mongoDB  
+
+* 힘들 때 위로의 말을 들려주는 슬랙 앱 개발 
+* 다양한 명언을 크롤링한 데이터를 기반으로 랜덤으로 표시해줌  
+* NoSQL과 node.js 경험을 위한 간단한 사이드 프로젝트  
+* [GitHub](https://github.com/yeoseon/pep-talk-bot)  
+
+-->
 
 ### KeyFlow Enterprise 3.x  
 
@@ -242,6 +265,15 @@ Vue.js, JavaScript(ES6)
 작은 기능 하나만 개발하고 중단된 프로젝트지만, 그 개발을 위해 JavaScript를 많이 공부하며 어렵다는 것을 이해하고, Vue.js도 접해볼 수 있는 기회였음 -->
 
 # Community  
+
+<!--
+
+## Open Source  
+
+* 여자야구 리그 정보 제공 서비스 - [GitHub](https://github.com/yeoseon/womans-baseball-news)  
+* 힘들 때 위로의 말을 건네주는 슬랙 봇 - [GitHub](https://github.com/yeoseon/pep-talk-bot)  
+
+-->
 
 ## Presentation  
 
