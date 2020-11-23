@@ -84,8 +84,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 
 ### 금융 솔루션 CBP :: '서비스 프로파일' 기능 데이터 구조 개선  
 
-[Bankware Global] 2019.10~11
-Java, Spring Framework, MySQL, Oracle 
+[Bankware Global] 2019.10~11  
+Java, Spring Framework, MySQL, Oracle  
 
 * 테이블 구조와 화면 동작이 일치되지 않아 쓰레기 데이터가 생성될 수 밖에 없는 부분 개선  
 * 서비스 프로파일 데이터 성격상 자식의 정보가 부모까지 적용될 수 있는 성격의 데이터는 아니라고 판단하여 테이블 구조 및 화면 UX를 개선
@@ -134,6 +134,7 @@ Java, Spring Framework, JUnit5, MySQL
 <!-- 캐싱이 필요한 부분을, 자주 사용하며 쉽게 변하지 않는 데이터로 정하고, 해당 데이터데 대해 캐싱 처리를 하였다. -->
 
 ### 금융 솔루션 CBP :: 일자 관련 공통 Context API 정비  
+
 [Bankware Global] 2019.08~10  
 Java, Spring Framework, MySQL, Oracle   
 
@@ -220,15 +221,6 @@ Java, Spring Framework, JUnit5
 * 주니어 개발자 성장 발표  
 --> 
 
-<!-- # 저는 이런 문제를 해결했습니다.  
-
-### 금융 솔루션 CBP의 중복거래 기능 개발  
-  
-[Bankware Global] 2020.08  
-Java, Spring Framework, JUnit5, MySQL  
-
-* 중복되는 금융 거래 발생시, Exception을 발생시켜   
--->
 
 # 저는 이런 것에 부족함을 느끼고 이런 노력을 했습니다.  
 
