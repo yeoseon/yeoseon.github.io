@@ -313,7 +313,7 @@ Vue.js, JavaScript(ES6)
 * 모각코 모임 GAM 활동 (2019.12- 2020.02)  
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 * 한국금융연수원 은행텔러 교육 수료 (2020.06~07)  
-* [우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0) 수강 (2020.11~2012.01)  
+* [우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0) 수강 (2020.11~2021.01)  
 
 _이 Resume은 `2020.11.28` 에 업데이트 되었습니다._  
 
