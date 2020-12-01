@@ -48,6 +48,8 @@
 [Bankware Global] 2020.06~  
 Java, Spring Framework, JUnit5  
 
+"단위 테스트의 중요성을 깨닫게 된 후 좋은 습관과 문화를 팀 내에 전파하기 위해 노력했던 경험입니다."  
+
 * 단위 테스트를 하지 않던 기존 시스템에서 JUnit을 사용할 수 있는 방법을 건의하여 테스트코드를 도입   
 * 테스트 코드를 적용할 시간이 따로 주어진 것은 아니었기에, 새로 개발하거나 수정하는 기능에 대해서만이라도 테스트코드를 지속적으로 도입하려고 노력  
 * 새로 개발한 API에 대해 보다 나은 안정성을 확보
@@ -58,6 +60,9 @@ Java, Spring Framework, JUnit5
 프로젝트의 안정적인 구조가 비즈니스의 요구사항을 빠르게 반영할 수 있다고 여깁니다.  
 
 ### 금융 솔루션 CBP :: '공통' 영역 구조 개선  
+
+"금융 솔루션 CBP의 '공통' 영역은 프로젝트와 패키지의 기준이 모호하고, 쓰임새가 다름에도 불구하고 적절한 기준없이 사용되고 있던 API가 많았습니다.
+이를 적절한 기준을 세워 분리하고 구조를 개선하는 역할을 수행했습니다."  
 
 [Bankware Global] 2019.11~05  
 Java, Spring Framework 
@@ -87,6 +92,8 @@ API를 중복관리하는 것은 좋지 않다고 판단을 했으나, 단순 �
 [Bankware Global] 2019.10~11  
 Java, Spring Framework, MySQL, Oracle  
 
+"금융 솔루션 CBP의 '서비스 프로파일' 기능의 테이블 구조에 대해 문제점을 분석하고 구조 및 기능을 개선했던 경험입니다. 제품의 성격과 데이터 설계를 함께 고민해볼 수 있는 기회였습니다."  
+
 * 테이블 구조와 화면 동작이 일치되지 않아 쓰레기 데이터가 생성될 수 밖에 없는 부분 개선  
 * 서비스 프로파일 데이터 성격상 자식의 정보가 부모까지 적용될 수 있는 성격의 데이터는 아니라고 판단하여 테이블 구조 및 화면 UX를 개선
 * 그 과정에서 불필요하다고 판단되었던 테이블을 삭제 처리
@@ -110,6 +117,9 @@ Java, Spring Framework, MySQL, Oracle
  
 [Bankware Global] 2020.05   
 Java, Spring Framework, JUnit5, MySQL  
+
+"자주 쓰이는 공통 영역의 기능을 점검하고, Refactoring 을 통해 성능을 개선하였습니다. 
+결과적으로 CPU 를 차지하는 비율이 약 40%로 개선된 것을 확인했습니다."  
 
 * 가장 많이 쓰이면서 모든 영역의 기본적인 기능이 모두 쓰이는 '고객 신규' 기능을 토대로 진행  
 * 기능 수행 후 기록되는 실행 시간, 함수 Call 횟수, CPU 차지 비율 등의 데이터를 토대로 기능 검토 및 Refactoring 수행
@@ -138,6 +148,8 @@ Java, Spring Framework, JUnit5, MySQL
 [Bankware Global] 2019.08~10  
 Java, Spring Framework, MySQL, Oracle   
 
+"금융 솔루션 CBP에서 제공하는 공통 컨텍스트의 기능 중 일자와 관련된 API를 새로운 요건과 함께 논의 및 정리를 했던 경험입니다."  
+
 * 기존 시스템에서는 묵시적인 일자 전환(00:00시가 되면 자동으로 일자 전환)만을 제공함   
 * 명시적인 일자 전환(일자 전환 Batch가 돌아야 일자 전환), 거래 일자에 대한 마이크로초(microsecond) 정보에 대한 필요성 
 * MySQL과 Oracle의 microsecond 처리 가능 여부에 대한 판단 등을 통해 명시적인 일자 전환을 사용할 수 있는 기반만을 마련하는 것으로 진행  
@@ -150,6 +162,8 @@ Java, Spring Framework, MySQL, Oracle
 
 [Bankware Global] 2020.08  
 Java, Spring Framework, JUnit5  
+
+"작은 기능이지만 자발적으로 나의 코드를 개선해본 경험입니다."  
 
 * 사내 시스템 중 Slack Webhook을 이용해 Notify 하는 기능을 사이드 프로젝트로 개발   
 * 추후 좋은 코드가 아니라고 판단되어 JUnit5를 활용하여 객체 지향적으로 Refactoring을 수행  
@@ -165,6 +179,8 @@ Java, Spring Framework, JUnit5
 [맑은기술] 2018.02~11  
 Springboot, jQuery, Foundation, Mustache  
  
+"제공받은 데이터를 다양하고 가시성있는 자료로 제공하기 위해 Canvas를 적극적으로 사용해볼 수 있던 경험입니다. 또한 디자이너와의 협업을 경험했습니다."  
+
 * [WKBL 데이터랩](http://datalab.wkbl.or.kr/gameinfo?id=03901001)  
 * 한국여자농구연맹(WKBL)의 영상 아카이브 솔루션을 기반으로 해당 영상을 외부 기자, 일반 사용자들에게 다양한 형태로 제공하는 웹 서비스 및 화면 개발  
 * Canvas를 이용해 영상과 기록을 토대로 다양한 통계자료를 가시성있게 보여주도록 개발  
@@ -173,7 +189,9 @@ Springboot, jQuery, Foundation, Mustache
 
 [맑은기술] 2018.02~11  
 Springboot, jQuery, Material  
- 
+
+"실시간 데이터 반영과 UI/UX를 고민하면서 개발했던 경험입니다."  
+
 * 비디오의 컨버팅 task를 관리하고, 진행 과정을 확인할 수 있는 웹 서비스 및 화면 개발  
 * Dashboard 화면을 도입하여 한눈에 볼 수 있도록 개발  
 * Material이라는 새로운 CSS Framework를 사용  
@@ -188,6 +206,8 @@ Springboot, jQuery, Material
 [Bankware Global] 2020.08  
 Java, Spring Framework, JUnit5, MySQL, AngularJS
 
+"중복거래 요건에 대해 직접 시중은행의 기능을 테스트해보며 요건을 확립하고, 중복 판단시 처리 방안을 제품 시스템과 연관시켜 아키텍처실과 논의하며 개발을 진행했던 경험입니다."  
+
 * 동료와 10원 / 20원씩 주고받으며 시중 은행들이 중복거래 처리를 어떻게 하고 있는지 테스트하며 요건 확립  
 * 중복거래시, 새로 구현한 Exception을 발생시켜 에러 처리와 별도로 처리하도록 개발  
 * CBP의 시스템 구조과 관련되어 아키텍쳐팀과 소통하며 개발 진행
@@ -200,6 +220,8 @@ Java, Spring Framework, JUnit5, MySQL, AngularJS
 
 [Bankware Global] 2020.05  
 Java, Spring Framework, JUnit5  
+
+"해당 API에 대한 기반 지식이 깊지 않고 요건이 불명확한 상황에서 API 개발을 주도적으로 수행했던 경험입니다."  
 
 * 요청 상황을 일감을 토대로만 먼저 파악하여 질문 요소가 나오면 리스트업하며 진행  
 * 기존에 존재하던 API를 분석하여, 대체할 수 있는 API는 없는지 / 현 요청이 제품에 반영될 만한 요건인지 등을 고민
@@ -315,7 +337,7 @@ Vue.js, JavaScript(ES6)
 * 한국금융연수원 은행텔러 교육 수료 (2020.06~07)  
 * [우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0) 수강 (2020.11~2021.01)  
 
-_이 Resume은 `2020.11.28` 에 업데이트 되었습니다._  
+_이 Resume은 `2020.12.01` 에 업데이트 되었습니다._  
 
 
 
