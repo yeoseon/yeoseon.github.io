@@ -113,7 +113,7 @@ Java, Spring Framework, MySQL, Oracle
 
 지속적인 Refactoring은 제품의 퀄리티를 높히고 변화를 수용하기 쉬운 구조를 만들기에 중요하다고 여깁니다.  
 
-### 금융 솔루션 CBP 제품 성능 개선  
+### 금융 솔루션 CBP :: 제품 성능 개선  
  
 [Bankware Global] 2020.05   
 Java, Spring Framework, JUnit5, MySQL  
@@ -216,7 +216,7 @@ Java, Spring Framework, JUnit5, MySQL, AngularJS
 * AngularJS로 구현된 기존 화면을 수정하는 역할 수행
 * 단위 테스트를 도입하여 에러 문의 0건 발생 
 
-### 금융 솔루션 CBP :: 기반지식과 요건이 명확하지 않은 상태에서의 API 개발 진행    
+### 금융 솔루션 CBP :: 표준 속성 API 개발  
 
 [Bankware Global] 2020.05  
 Java, Spring Framework, JUnit5  
