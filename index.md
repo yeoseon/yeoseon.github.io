@@ -12,19 +12,12 @@
 * `Spring Framework` 를 주로 사용하고 있습니다.  
 * 좋은 코드와 구조를 바탕으로 한 `좋은 소프트웨어`와 협업을 위한 `좋은 커뮤니케이션`에 대한 관심이 많습니다.  
 * 최근에는 `JPA`와 `DDD(Domain-Driven-Design)`를 공부하고 있습니다.  
-* 좋은 조직으로 가기 위해 `구직` 중에 있습니다.  
 
 **GitHub** | [github.com/yeoseon](https://github.com/yeoseon)  
 **Blog** | [yeoseon.kr](https://yeoseon.kr/)  
 **E-mail** | devyyskr@gmail.com  
 
 # Work Experiences
-
-**현재 구직중이며, 이런 조직에서 일하고 싶습니다.**  
-* `좋은 소프트웨어`와 `조직의 성장`을 위한 문화가 있거나 만들어가고 있는 (`코드리뷰`, `테스트 주도 개발` 등..)
-* `공유/세미나`가 활발하고 소통이 `자유`로운  
-* `신뢰를 바탕`으로 업무가 `자율적`으로 이루어지는
-> *조직이 요구하는 인재가 될 수 있도록 열심히 배워가고 있습니다.*  
 
 ### [뱅크웨어글로벌](http://bankwareglobal.com/wp/)
 **기간** | 2019.01 - 2020.08 (1년 7개월)  
@@ -337,7 +330,7 @@ Vue.js, JavaScript(ES6)
 * 한국금융연수원 은행텔러 교육 수료 (2020.06~07)  
 * [우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0) 수강 (2020.11~2021.01)  
 
-_이 Resume은 `2020.12.01` 에 업데이트 되었습니다._  
+_이 Resume은 `2020.12.23` 에 업데이트 되었습니다._  
 
 
 
