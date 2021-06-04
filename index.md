@@ -26,7 +26,7 @@
 
 ### [맑은기술](http://www.malgn.com/)  
 **기간** | 2016.03 - 2019.01 (2년 10개월)  
-**포지션** | 웹 프론트엔드 개발자 (서비스, 화면 개발)  
+**포지션** | 웹 서비스 개발자 (서비스, 화면 개발)  
 **프로젝트** | mConverter (비디오 컨버팅 관리 서비스), [한국여자농구연맹(WKBL)의 영상 콘텐츠 제공 서비스](http://datalab.wkbl.or.kr/gameinfo?id=03901001), KeyFlow ADAMS (Content Management System), 한국여자농구연맹(WKBL) 스포츠 아카이브 솔루션 (관리자 웹 서비스), KeyFlow Enterprise 3.x (Media Assert Management)
 
 # 저는 이런 것에 관심을 가지고 이런 경험을 했습니다.  
