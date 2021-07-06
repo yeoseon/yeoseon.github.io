@@ -7,17 +7,23 @@
 
 # 안녕하세요, Java 웹 개발자 윤여선 입니다.  
 
-### 서울에서 Java 웹 개발자로 살아가고 있습니다.  
+### 서울에서 금융 IT 개발자로 살아가고 있습니다.  
 
-* `Spring Framework` 를 주로 사용하고 있습니다.  
+* `Java` 및 `Spring Framework` 를 주로 사용하고 있습니다.  
 * 좋은 코드와 구조를 바탕으로 한 `좋은 소프트웨어`와 협업을 위한 `좋은 커뮤니케이션`에 대한 관심이 많습니다.  
 * 최근에는 `JPA`와 `DDD(Domain-Driven-Design)`를 공부하고 있습니다.  
+* 금융 IT 개발자로 활동하며 금융 도메인 역량을 쌓아가고 있습니다.   
 
 **GitHub** | [github.com/yeoseon](https://github.com/yeoseon)  
 **Blog** | [yeoseon.kr](https://yeoseon.kr/)  
 **E-mail** | devyyskr@gmail.com  
 
 # Work Experiences
+
+### [카카오뱅크](https://www.kakaobank.com/)
+**기간** | 2021.02 - (재직중) 
+**포지션** | 금융 IT 개발자 (대외, 대행 업무 개발)  
+**프로젝트** | 
 
 ### [뱅크웨어글로벌](http://bankwareglobal.com/wp/)
 **기간** | 2019.01 - 2020.08 (1년 7개월)  
@@ -329,8 +335,9 @@ Vue.js, JavaScript(ES6)
 * [TDD, Refactoring, Clean Code 7기](https://edu.nextstep.camp/c/8fWRxNWU/) 수강 (2020.03-2020.04)
 * 한국금융연수원 은행텔러 교육 수료 (2020.06~07)  
 * [우아한테크캠프 Pro](https://edu.nextstep.camp/c/lqsBs7x0) 수강 (2020.11~2021.01)  
+* 한국금융연수원 은행실무기초 교육 수료 (2021.06~08)  
 
-_이 Resume은 `2020.12.23` 에 업데이트 되었습니다._  
+_이 Resume은 `2021.07.06` 에 업데이트 되었습니다._  
 
 
 
